@@ -8,6 +8,10 @@ or followed the tutorial in their own time.
 Workshops
 =========
 
+DjangoCon Cardiff, 4th June 2015
+-----------------------------------------
+* Wayne Tong
+
 PyCon Ireland in Dublin, 14th October 2013
 ------------------------------------------
 
