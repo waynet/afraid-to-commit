@@ -8,10 +8,108 @@ or followed the tutorial in their own time.
 Workshops
 =========
 
-PyCon Ireland in Dublin, 14th October 2013
+Pycon Zimbabwe in Harare, 24th November 2016
+---------------------------------------------
+* Bornwell Matembudze https://github.com/bornie21
+* Kudakwashe Siziva
+* Akim Munthali https://github.com/amunthali @amunthali
+
+.. note:: Many thanks to Charles Katuri (charle-k) for his invaluable assistance on Windows computers
+
+PyCon Ireland in Dublin, 26th October 2015
+------------------------------------------
+* Simon Parker https://github.com/simonparkerdublin @SparkerDublin
+* Anna Szewc, https://github.com/NannahA
+* Iain Geddes iaingeddes@theiet.org https://github.com/iaingeddes
+* Gearoid Ryan https://github.com/gearoid-ryan
+* Jakub Pawlicki https://github.com/JakubPawlicki
+* Ivin Polo Sony @ivinpolosony http://github.com/ivinpolosony/
+* Lisa Cavern @anninireland https://github.com/anninireland
+* Jeremie Jost https://github.com/jjst
+* Richard Loy https://github.com/Richloy
+* Art Knipe https://github.com/artkgithub
+* Miao Li https://github.com/masonmiaoli
+* Sarah Jackson
+* Stefano Fedele https://github.com/stefanofedele/afraid-to-commit
+* Barry Kennedy https://github.com/bazkennedy
+
+
+PyCon UK in Coventry, 21st September 2015
+-----------------------------------------
+
+.. note:: Many thanks to Helen Sherwood-Taylor (helenst) for her invaluable assistance.
+
+* Valerio Campanella @ValerioCamp https://github.com/VCAMP/
+* Laura Dreyer https://github.com/lbdreyer
+* Aisha Bello https://github.com/shante66
+* Paivi Suomela, https://github.com/peconia
+* Neil Stoker, https://github.com/nmstoker
+* Charles G Barnwell  https://github.com/cgbarnwell
+* Jo Williams https://githib.com/crocodile2485 fh07jw
+* Sylvain Gubian
+* Adam Johns https://github.com/ninjaExploder/
+* Glen Davies https://github.com/glen442 @GlenDaviesDev
+
+DjangoGirls in Portland, 27th August 2015
 ------------------------------------------
 
-* Wayne Tong 
+* Lacey Williams Henschel @laceynwilliams
+* Megan Norton http://walkermacy.com
+* Sara "the" Jensen https://github.com/thejensen
+* TB
+* Stephanie Marson
+
+DjangoCon Europe in Cardiff, 4th June 2015
+------------------------------------------
+
+* David Bannon https://github.com/sp1ky
+* Amy Lai
+* Sven Groot <sven@mediamoose.nl>
+* Rick de Leeuw <rick@mediamoose.nl>
+* Zoe Ballard
+* Jeff Doyle
+* Stewart Houten
+* Lukasz Wojcik
+* Tom Bakx
+* Marissa Zhou <https://github.com/marissazhou>
+* Niels Lensink <nielslensink@gmail.nl>
+* Bryan Spence
+* Andraz Tori <andraz@zemanta.com>
+* Gwilym Jones
+* Adrienne Lowe http://codingwithkniv.es, @adriennefriend
+* Zoe Ballard <https://github.com/zoe-ann-b>
+
+Dutch Django Association Sprint in Amsterdam, 7th March 2015
+------------------------------------------------------------
+
+* Remco Kranenburg <remco@burgsoft.nl>
+* Floris den Hengst
+* C.T. Matsumoto <todd@l1nda.nl>
+* Loek van Gent <https://github.com/gannetson>
+* Nathan Schagen
+* Hanna Kollo https://github.com/sztrovacsek
+* Stephen Albert https://github.com/psiloLR
+
+PyCon Ireland in Dublin, 13th October 2014
+------------------------------------------
+
+* Randal McGuckin <randal.mcguckin@gmail.com>
+* Laura Duggan https://github.com/labhra
+* Jenny McGee
+* Conor McGee <mcgeeco@tcd.ie> https://github.com/mcgeeco
+* Nadja Deininger https://github.com/machinelady
+* Andrew McCarthy
+* Brian McDonnell <https://github.com/brianmcdonnell/>
+* Brendan Cahill (https://github.com/brencahill/)
+* Adam Dickey
+* Paul O'Grady (Twitter: @paul_ogrady; GITHub: paulogrady)
+* Jenny DiMiceli - https://github.com/jdimiceli
+* Stephen Kerr
+* Wayne Tong
+* Vinicius Mayer (viniciusmayer@gmail.com) https://github.com/viniciusmayer
+* Dori Czapari https://github.com/doriczapari (@doriczapari)
+* Karl Griffin (karl_griffin@hotmail.com) https://github.com/karlgriffin
+* Vadims Briksins (https://github.com/Briksins)
 
 PyCon UK in Coventry, 20th September 2014
 -----------------------------------------
@@ -32,6 +130,7 @@ PyCon UK in Coventry, 20th September 2014
 * Jonathan Lake-Thomas https://github.com/jonathlt
 * Ben Mansbridge
 * Glen Davies (@GlenDaviesDev) - https://github.com/glen442
+* Mike S Collins (MikeyBoy1969)
 
 DjangoCon US in Portland, 5th September 2014
 --------------------------------------------
@@ -48,6 +147,7 @@ DjangoCon US in Portland, 5th September 2014
 * Jeff Kile
 * Orlando Romero
 * Chad Hansen (chadgh@gmail.com) https://github.com/chadgh
+
 
 DjangoVillage in Orvieto, 14th June 2014
 ----------------------------------------
@@ -226,3 +326,40 @@ I followed the tutorial online
 * Bob Aalsma - https://github.com/BobAalsma/
 * Andy Venet - https://github.com/avenet/
 * Vathsala Achar - 22nd September, 2014
+* Amine Zyad <amizya@gmail.com> http://github.com/amizya
+* Xrispies - http://github.com/Xrispies
+* Andrew Morales - October 19, 2014
+* Suraj Deshmukh <surajssd009005@gmail.com> http://github.com/surajssd
+* Suresh - https://github.com/umulingu/
+* Chandra Bandi - 20-December 2014
+* Drew A. - https://github.com/daldin - 12th December 2014
+* Kumar Dheeraj-https://github.com/dhey2k-31-dec-2013
+* Omar - 14-1-2015
+* Surabhi Borgikar
+* Cameron
+* Jum - May 20, 2015
+* Paul Jewell <paul@jidoka.org> July 2015 https://github.com/paul-jewell
+* Alexandro Perez - https://github.com/AlexandroPerez - 6th August 2015
+* Rahul bajaj - https://github.com/rahulbajaj0509 2015
+* Alejandro Suárez - https://github.com/alsuga 20th October 2015
+* Prathamesh Chavan
+* Tad Deely
+* Abhijit Chowdhury - https://github.com/achowdhury7 12th Feb 2016
+* Richard Angeles - Feb 19, 2016
+* Adam Shields
+* Salvador Rico - April 3, 2016 - https://github.com/salvarico
+* Josh Long
+* Prashant Jamkhande - https://github.com/prashant0493
+* Humphrey Butau - https://github.com/hbutau - 2016-11-7
+* Jose Rodriguez -https://github.com/jlrods - 15/11/2016
+* Michael Kortstiege - https://github.com/nodexo - Nov 19, 2016
+* Steven Lee - https://github.com/stevenlee96 - 2016-11-20
+* Dieter Jansen - https://github.com/dieterjansen - 2016-04-20
+* Eddy Barratt
+* Pooja Gadige - <poojagadige@gmail.com> - pgadige
+* Jason Gardner
+* Ana
+* Dade Murphy
+* Leticia Ulloa
+* La Chilindrina
+* Anselmo ~ <agprocida@gmail.com> ~ anselmoprocida
